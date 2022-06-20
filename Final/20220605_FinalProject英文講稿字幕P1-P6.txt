@@ -1,0 +1,22 @@
+P1
+Hello everyone, we are group 17. Today we are going to present our final project,
+prediction in Medical Education.
+
+P2
+This is the data science flow. We focus on stage 2 (Data Preprocessing), stage 3 (Transformation) and stage 4 (Feature Selection).
+
+P3
+As we all know, medical students need to study for six years with their learning pathway, which is General Studies (通識領域科目)  Basic Medical Sciences (基礎醫學)  Clinical Medicine (臨床醫學)  Practical Medicine (實習醫學)
+
+The student performance will fluctuate during their study.
+
+Therefore, we try to find out which of the following stages of general studies, basic medicine and clinical medicine can be predicted early in a student's final performance in practicum medicine and which subjects in that area can be predicted early.
+
+P4
+We use the dataset from Taiwan Medical School. The dataset includes 1366 students’ scores from first year to fourth year. Student ID, admission day, marks for different subjects and other data are listed in the dataset.
+
+P5
+We preprocess some data and visualize them. 
+
+P6
+We group all subjects in the dataset into four categories, which are pre-medical(通識), clinical, clerkship and internship. Some subjects are removed because we combine them into their corresponding categories. We will show subjects of the 4 categories in the following 2 slides.
